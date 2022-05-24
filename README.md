@@ -1,9 +1,9 @@
-# slack-bot
-Give Feeedback &amp; Kudos
+# Talky Slack Bot
+_Inspired by Matter_
 
 Talky allows you to start Feedback Friday and recognise team members with Kudos, constructive feedback, and rewards — all in Slack. 💜
 
-Things you can do with Matter + Slack
+Things you can do with Talky + Slack
 
 🎉 Start Feedback Friday! — Dedicate a day where your team is encouraged to give the gift of feedback and share recognition (Kudos).
 
