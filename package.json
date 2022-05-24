@@ -1,8 +1,8 @@
 {
-  "name": "infrastructure",
+  "name": "slack-bot",
   "version": "0.1.0",
   "bin": {
-    "infrastructure": "bin/infrastructure.js"
+    "slack-bot": "bin/slack-bot.js"
   },
   "scripts": {
     "build": "tsc",

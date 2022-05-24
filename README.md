@@ -1,16 +1,14 @@
-# Talky Slack Bot
-_Inspired by Matter_
+# Welcome to your CDK TypeScript project
 
-Talky allows you to start Feedback Friday and recognise team members with Kudos, constructive feedback, and rewards — all in Slack. 💜
+This is a blank project for CDK development with TypeScript.
 
-Things you can do with Talky + Slack
+The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-🎉 Start Feedback Friday! — Dedicate a day where your team is encouraged to give the gift of feedback and share recognition (Kudos).
+## Useful commands
 
-🙌 Celebrate wins together with Kudos! — Choose from 9 templates or create your own Custom Kudos to share company values, inside jokes, and much more.
-
-📊 Discover team recognition insights with Analytics! — Analytics gives you recent recognition activity and trends, allowing greater visibility and insights specific to your team.
-
-📈 Level up your team with Feedback Surveys! — Discover blind spots and superpowers with skill-based prompts that turn into actionable and constructive feedback.
-
-🏆 Grow regularly and intentionally with Continuous Feedback! — Choose the skills you want to work on. Select the cadence (weekly, monthly, quarterly). Pick who to hear from regularly.
+* `npm run build`   compile typescript to js
+* `npm run watch`   watch for changes and compile
+* `npm run test`    perform the jest unit tests
+* `cdk deploy`      deploy this stack to your default AWS account/region
+* `cdk diff`        compare deployed stack with current state
+* `cdk synth`       emits the synthesized CloudFormation template
